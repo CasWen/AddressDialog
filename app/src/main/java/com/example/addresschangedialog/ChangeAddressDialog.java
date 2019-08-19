@@ -33,17 +33,6 @@ import java.util.HashMap;
 import java.util.Map;
 
 
-/**
- * 项目名称：project_hotkidclub_ceo
- * 类描述：
- * 创建人： zhangxubo
- * 创建时间： 2017/6/24 13:44
- * <p>
- * 修改人： zhangxubo
- * 修改时间： 2017/6/24 13:44
- * 修改备注：
- */
-
 @SuppressWarnings("AlibabaClassMustHaveAuthor")
 public class ChangeAddressDialog extends DialogFragment implements ChangeAddressDialogViewModule.View , View.OnClickListener {
     private static final String TAG = "ChangeAddressDialog";
