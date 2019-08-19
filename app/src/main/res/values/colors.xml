@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="login_btn_bg">@color/colorPrimary</color>
+    <color name="font_white">#ffffff</color>
+    <color name="font_price">#ff627f</color>
+    <color name="font_black">#181818</color>
+    <color name="font_black_444444">#444444</color>
+    <color name="font_black_half">#828282</color>
+    <color name="blue">#2cb9e7</color>
+    <color name="color_00FFFF">#00FFFF</color>
+    <color name="divider">#FFCCCCCC</color>
+    <color name="ufo_home_pink">#fb5f8c</color>
+
+    <color name="home_pink">#E21483</color>
+    <color name="home_btn_pink">#fb1b59</color>
+    <color name="fofo_clean_light_pink">#FFA9CF</color>
+    <color name="home_pink_press">#f21483</color>
+    <color name="home_gray">#93929a</color>
+    <color name="btn_enable_gray">#adadad</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="blackb0b0b0">#b0b0b0</color>
+    <color name="black707070">#707070</color>
+    <color name="black7b7b7b">#7b7b7b</color>
+    <color name="colorFB5F8C">#FB5F8C</color>
+    <color name="color999999">#999999</color>
+    <color name="color6f6f6f">#6f6f6f</color>
+    <color name="color_333333">#333333</color>
+    <color name="gray">#BABABA</color>
+    <color name="gray_search">#ADADAD</color>
+    <color name="title_right_color">#5F94FB</color>
+    <color name="gray_search_text">#666666</color>
+    <color name="bg_gray">#F1F5F8</color>
+    <color name="homefragment_text_gray">#727272</color>
+    <color name="yellow">#FEFE02</color>
+    <color name="ufo_mask_yellow">#ffe28a</color>
+    <color name="color_ffd341">#ffd341</color>
+    <color name="transparent">#00000000</color>
+    <color name="login_gray">#7B7C7E</color>
+    <color name="btnbgcolor">#E21483</color>
+    <color name="register_bg_color">#584F60</color>#FAFAFA
+    <color name="bg_color">#FAFAFA</color>
+    <color name="bg_luna3_show_title">#FF5D88</color>
+    <color name="bg_luna3_show_btn">#FF627F</color>
+    <!-- 半透明 -->
+    <color name="half_transparent">#90000000</color>
+    <color name="transparent20">#40000000</color>
+    <color name="transparent_white60">#a0ffffff</color>
+    <color name="color_707070">#707070</color>
+    <color name="color_f1f3f4">#f1f3f4</color>
+
+    <color name="color_ADADAD">#adadad</color>
+    <color name="light_pink">#FFA8D8</color>
+    <color name="light_blue">#29CDD7</color>
+    <color name="light_pink_F85F81">#F85F81</color>
+    <color name="skin_sun">#97DAEB</color>
+    <color name="skin_night">#26143E</color>
+    <color name="skin_blue">#3D97CC</color>
+    <color name="fofo_color">#85E2E5</color>
+    <color name="skin_mint_green">#20A1B4</color>
+    <color name="skin_clove">#C7BAEF</color>
+    <color name="red">#F72F5E</color>
+    <color name="color_ff0000">#ff0000</color>
+    <color name="skin_peach_pink">#FFB5DC</color>
+    <color name="skin_cherry_pink">#FF70B5</color>
+    <color name="txt_gray">#7B7C7E</color>
+    <color name="color_00FF00">#00FF00</color>
+    <color name="color_ffa8d8">#ffa8d8</color>
+    <color name="color_E0E0E0">#E0E0E0</color>
+    <color name="color_eeeeee">#eeeeee</color>
+    <color name="line_color">#EFEEEC</color>
+    <color name="color_61d6e9">#61d6e9</color>
+    <color name="color_FFAFCD">#FFAFCD</color>
+    <color name="color_505050">#505050</color>
+    <color name="color_e0002a">#e0002a</color>
+    <color name="color_4cd9fc">#4cd9fc</color>
+    <color name="shop_car">#fb5568</color>
+    <color name="shop_car2">#ff627f</color>
+    <color name="shop_car_gray">#777777</color>
+    <color name="text_invoice_gray">#888888</color>
+
+    <color name="white2">#FFFFFF</color>
+    <color name="line_color2">#dddddd</color>
+    <color name="line_color3">#e6e6e6</color>
+    <color name="light_color">#ebebed</color>
+    <color name="grey_color">#999a9e</color>
+    <color name="grey_color2">#E6E6E6</color>
+    <color name="line_color_blue">#3C8EAE</color>
+    <color name="bg_color_pink">#FF90A2</color>
+    <color name="bg_color_bg">#ff627f</color>
+    <color name="bg_color_bg2">#ff738f</color>
+    <color name="bg_color_blue">#43D5FF</color>
+    <color name="bg_color_blue_light">#84B5CA</color>
+    <color name="luna3_device_colse">#6CCEEE</color>
+
+
+    <color name="white_51_transparent">#50FFFFFF</color>
+    <color name="white_50_transparent">#80FFFFFF</color>
+    <color name="ColorFF627F">#FF627F</color>
+
+
+    <color name="Colord73e34">#d73e34</color>
+    <color name="ColorB4B5DF">#B4B5DF</color>
+    <color name="Color71c5e8">#71c5e8</color>
+    <color name="Colorf5b6cd">#f5b6cd</color>
+    <color name="Colorab8dff">#ab8dff</color>
+    <color name="Colorfebfd9">#febfd9</color>
+    <color name="Colorf4207a">#f4207a</color>
+    <color name="Color89d7e5">#89d7e5</color>
+    <color name="Colorffb105">#ffb105</color>
+    <color name="Color393939">#393939</color>
+    <color name="Colorb49ce0">#b49ce0</color>
+
+    <color name="ColorCB7BFB">#CB7BFB</color>
+    <color name="Colorff79a1">#ff79a1</color>
+    <color name="ColorF385EF">#F385EF</color>
+    <color name="Color78A6FF">#78A6FF</color>
+    <color name="ColorE21483">#E21483</color>
+    <color name="Color3a3a3a">#3a3a3a</color>
+    <color name="ColorFDFDFD">#FDFDFD</color>
+    <color name="ColorEDEDED">#EDEDED</color>
+
+
+    <color name="defaultBackground">#f7f7f7</color>
+    //默认背景颜色
+    <color name="defaultDividerLine">#ffffff</color>
+    //默认分割线颜色
+    <color name="defaultTextview">#181818</color>
+    //默认文字的颜色
+    <color name="emphasisTextview">#292929</color>
+    //默认重点强调文字颜色
+
+    <color name="common_orange">#fc7946</color>
+    <color name="common_orange_ffa423">#ffa423</color>
+    <color name="common_pup_8d65ff">#8D65FF</color>
+
+    <color name="ShawLiner">#88cdcdcd</color>
+    <color name="divider_color">#e0e0e0</color>
+    <color name="radio_button_grey">#697d91</color>
+    <color name="color_f178b2">#f178b2</color>
+    <color name="color_fcedf8">#fcedf8</color>
+    <color name="color_f4f4f4">#f4f4f4</color>
+    <color name="color_555555">#555555</color>
+    <color name="color_999999">#999999</color>
+    <color name="color_686868">#686868</color>
+    <color name="color_666666">#666666</color>
+    <color name="color_f0f0f0">#f0f0f0</color>
+    <color name="color_5e6e7a">#5e6e7a</color>
+    <color name="color_fef8fd">#fef8fd</color>
+    <color name="color_ffe6e8">#ffe6e8</color>
+    <color name="color_ff627f">#ff627f</color>
+    <color name="color_ff547b">#ff547b</color>
+    <color name="color_bb6bcc3">#b6bcc3</color>
+    <color name="color_8e8e93">#8e8e93</color>
+    <color name="color_ffc0e0">#ffc0e0</color>
+    <color name="color_ffecf6">#ffecf6</color>
+    <color name="color_f5f8fa">#f5f8fa</color>
+    <color name="color_edf1f4">#EDF1F4</color>
+    <color name="color_fefffe">#FEFFFE</color>
+    <color name="color_989898">#989898</color>
+
+
+    <!--界面背景色-->
+    <color name="base_color_view_bg">#FFFFFF</color>
+    <!--界面分割线背景色-->
+    <color name="base_color_view_lable_bg">#EEEEEE</color>
+    <color name="base_color_gray">#303030</color>
+    <color name="base_color_gray1">#888888</color>
+    <!--用于特别要强调和突出的文字-->
+    <color name="base_color_red">#f54343</color>
+    <!--用于辅助信息，功能停用-->
+    <color name="base_color_gray4">#cccccc</color>
+
+    <!-- 取消订单弹窗 -->
+    <color name="cancel_order_red">#FD2A32</color>
+    <color name="cancel_order_gray">#888888</color>
+    <color name="Color_Main_Gray">#F5F8FA</color>
+    <color name="Color_Main_Gray_F5">#F5F5F5</color>
+
+
+    <color name="cash_txt_red_1">#FE5D73</color>
+
+    <!--用于辅助颜色信息-->
+    <color name="base_color_gray3">#999999</color>
+
+    <!--MINI3 产品颜色-->
+    <color name="prod_color_fen">#FEBFD9</color>
+    <color name="prod_color_hong">#F4207A</color>
+    <color name="prod_color_hei">#393939</color>
+    <color name="prod_color_lan">#89D7E5</color>
+    <color name="prod_color_zi">#B49CE0</color>
+    <color name="prod_color_huang">#FFB105</color>
+
+
+    <color name="download_Color1">#ff5d88</color>
+    <color name="download_Color2">#fd8ecc</color>
+    <color name="download_Color3">#c9adfa</color>
+
+
+    <color name="color_00cdd2">#00cdd2</color>
+    <color name="color_f0f1f1">#f0f1f1</color>
+    <color name="color_ECEDEE">#ECEDEE</color>
+
+
+
+    <color name="sobot_colorPrimary">#ff627f</color>
+    <color name="sobot_welcomeBackcolor">#ff627f</color>
+    <color name="sobot_viewpagerbackground">#EBEBEB</color>
+    <!-- tab底部栏目的切换 -->
+    <color name="sobot_title_category_select_color">#A52A2A</color>
+    <color name="sobot_title_category_unselect_color">#B23AEE</color>
+
+    <!-- 标题栏按钮背景颜色 -->
+    <drawable name="sobot_button_backward_pressed">#FF3030</drawable>
+    <drawable name="sobot_button_backward_normal">#0000</drawable>
+
+    <!-- 注册界面 样式 -->
+    <color name="sobot_holo_red_light">#ffff4444</color>
+    <color name="sobot_gray">#DBDBDB</color>
+
+    <!-- 八个主题颜色 -->
+    <color name="sobot_bg_white">#FFFFFF</color>
+    <color name="sobot_bbutton_danger">#ffd9534f</color>
+    <color name="sobot_bbutton_danger_edge">#ffd43f3a</color>
+    <color name="sobot_bbutton_danger_pressed">#ffd2322d</color>
+    <color name="sobot_bbutton_danger_pressed_edge">#ffac2925</color>
+    <color name="sobot_bbutton_danger_disabled">#a5d9534f</color>
+    <color name="sobot_bbutton_danger_disabled_edge">#a5d43f3a</color>
+    <color name="sobot_bbutton_info">#ff627f</color>
+    <color name="sobot_bbutton_info_edge">#ff46b8da</color>
+    <color name="sobot_bbutton_info_pressed">#ff39b3d7</color>
+    <color name="sobot_bbutton_info_pressed_edge">#ff269abc</color>
+    <color name="sobot_bbutton_info_disabled">#a55bc0de</color>
+    <color name="sobot_bbutton_info_disabled_edge">#a546b8da</color>
+
+    <!-- 聊天界面提醒的颜色。-->
+    <color name="sobot_listview_remind">#CECECE</color>
+    <color name="sobot_listview_remind_text_color">#fefefe</color>
+
+    <color name="sobot_btn_text_color">#ffffff</color>
+    <!-- 布局文件 sobot_robot_dialog.xml 和 sobot_dcrc_dialog.xml 中 id 为 @+id/sobot_positiveButton(立即结束)、@+id/sobot_negativeButton(取消)按钮的字体颜色 -->
+    <color name="sobot_bg_black">#676e6f</color>
+    <!-- sobot_dcrc_dialog.xml 中 按钮id为 @+id/sobot_btn_submit的字体颜色 -->
+    <color name="sobot_color">#ff627f</color>
+    <!-- 布局文件为 sobot_chat_activity.xml 中 id为@+id/sobot_btn_send 发送按钮的颜色选择器中的颜色 -->
+    <color name="sobot_btn_send_selector_color">#0FC481</color>
+    <!-- 删除历史记录的字体颜色 -->
+    <color name="sobot_text_delete_hismsg_color">#e64340</color>
+
+
+    <!-- 头部开始 -->
+    <!-- 头部背景 -->
+    <color name="sobot_color_title_bar_bg">#ff627f</color>
+    <!-- 普通状态栏的颜色设置 -->
+    <color name="sobot_status_bar_color">@color/sobot_white</color>
+    <!-- 头部中间昵称颜色 -->
+    <color name="sobot_color_title_bar_title">#ffffffff</color>
+    <!-- 头部菜单字体颜色 -->
+    <color name="sobot_color_title_bar_menu_text">#ffffffff</color>
+    <!-- 帮助中心状态栏和toolbar的颜色设置 -->
+    <color name="sobot_help_center_status_bar_color">#FAFAFA</color>
+    <!-- 帮助中心标题栏 -->
+    <color name="sobot_color_title_bar_title_help_center">#333333</color>
+    <!-- 帮助中心返回菜单文字颜色 -->
+    <color name="sobot_color_title_bar_back_help_center">#666666</color>
+
+    <!-- 中间 -->
+    <!-- 聊天背景 -->
+    <color name="sobot_color_chat_bg">#F0F5F5</color>
+    <!-- XListView的背景颜色 -->
+    <color name="sobot_lv_message_bg">#F0F5F5</color>
+    <color name="sobot_robot_msg_text_color">#000000</color>
+    <color name="sobot_msg_text_color">#ffffff</color>
+    <color name="sobot_msg_voice_text_color">#ffffff</color>
+    <color name="sobot_color_read_all">#ff627f</color>
+    <color name="sobot_color_suggestion">#ff627f</color>
+    <color name="sobot_color_suggestion_history">#000000</color>
+    <color name="sobot_goods_info_btn_bgcolor">#ff627f</color>
+
+    <color name="sobot_line_1dp">#d9d9d9</color>
+    <color name="sobot_postMsg_url_color">#ff627f</color>
+    <color name="sobot_color_setting_item_pressed">#eeeeee</color>
+    <color name="sobot_white">#ffffff</color>
+    <color name="sobot_color_evaluate_bg_normal">#ffffff</color>
+    <color name="sobot_color_evaluate_text_normal">#656565</color>
+    <color name="sobot_color_evaluate_bg_pressed">#ff627f</color>
+    <color name="sobot_color_evaluate_text_pressed">#ffffff</color>
+    <color name="sobot_color_evaluate_text_btn">#000000</color>
+    <color name="sobot_color_remind_bg">#676e6f</color>
+    <color name="sobot_color_robot_name">#858282</color>
+
+    <!-- 超链接颜色 左边 -->
+    <color name="sobot_color_link">#ff627f</color>
+
+    <!-- 超链接颜色 右边 -->
+    <color name="sobot_color_rlink">#0d81c0</color>
+
+    <!-- 消息提醒中的超链接颜色 -->
+    <color name="sobot_color_link_remind">@color/sobot_color_link</color>
+    <!-- 文件消息气泡颜色 -->
+    <color name="sobot_chat_file_bgColor">@android:color/white</color>
+
+    <!-- button字体 -->
+    <drawable name="sobot_color_drawable_text_black">#000000</drawable>
+    <drawable name="sobot_color_drawbale_text_white">#ffffff</drawable>
+    <!-- 普通button背景 -->
+    <color name="sobot_btn_normal_color">@color/sobot_colorPrimary</color>
+    <!-- 聊天界面发送按钮的背景颜色 -->
+    <color name="sobot_btn_bg_send">#ff627f</color>
+    <color name="sobot_btn_bg_send_pressed">#ff627f</color>
+    <color name="sobot_btn_bg_send_disable">#EFF3FA</color>
+    <!-- 底部 -->
+    <!-- 底部背景 -->
+    <color name="sobot_color_bottom_bg">#fafcfc</color>
+    <color name="sobot_color_bottom_bg_pressed">#dcdcdc</color>
+    <color name="sobot_color_bottom_btn_voice">#777777</color>
+    <color name="sobot_color_bottom_edittext_text">#FFFFFF</color>
+    <color name="sobot_color_bottom_upload_btn_color">#6a7272</color>
+    <color name="sobot_color_bottom_message">#AAAAAA</color>
+
+
+    <!-- skill activity -->
+    <drawable name="sobot_btn_skill_normal">#666666</drawable>
+    <drawable name="sobot_btn_skill_pressed">#676f6f</drawable>
+    <color name="sobot_item_skill_pressed">#f0f0f0</color>
+    <color name="sobot_color_item_skill_post_msg">#f1a058</color>
+    <color name="sobot_color_item_skill_online">#ff627f</color>
+    <color name="sobot_color_item_skill_offline">#b5b5b5</color>
+    <color name="sobot_color_item_skill_offline_status">#cccccc</color>
+    <color name="sobot_color_skill_cancel_bg">#ffffff</color>
+    <color name="sobot_color_skill_grid_view_bg">#F5F5F5</color>
+    <!-- post_msg activity -->
+    <color name="sobot_color_post_msg_text_color">#BDC3D1</color>
+
+    <color name="sobot_transparent">#00000000</color>
+
+    <color name="sobot_text_btn_bg">#ff627f</color>
+    <color name="sobot_text_btn_bg_press">#ff627f</color>
+    <color name="sobot_text_btn_color">#ffffff</color>
+    <color name="sobot_text_btn_color_pressed">#80ffffff</color>
+    <color name="sobot_lable_view_history_bg">#f2f2f2</color>
+    <color name="sobot_lable_view_ing_bg">#ffffff</color>
+
+    <color name="sobot_auto_complete_press">#EFF3FA</color>
+    <color name="sobot_auto_complete">@android:color/white</color>
+    <!-- 通告布局背景颜色-->
+    <color name="sobot_announcement_bgcolor">#FDF6D7</color>
+    <!-- 通告标题字体颜色-->
+    <color name="sobot_announcement_title_color">#6D6A69</color>
+
+    <!-- 机器人切换列表的已选中背景色 -->
+    <color name="sobot_robot_list_selected_color">#ff627f</color>
+
+    <!--自定义标签背景颜色-->
+    <color name="sobot_lable_bg_color">#f9fbfa</color>
+    <!--自定义标签选中背景颜色-->
+    <color name="sobot_lable_press_bg_color">#ffffff</color>
+    <!--自定义标签字体颜色-->
+    <color name="sobot_lable_text_color">#999999</color>
+
+    <!--文件进度条前景色-->
+    <color name="sobot_sectorProgressView_fgColor">#4D000000</color>
+
+    <!--留言记录线条颜色-->
+    <color name="sobot_ticket_deal_line_light">#ff627f</color>
+    <color name="sobot_ticket_deal_line_dark">#eeeeee</color>
+    <color name="sobot_ticket_deal_line_grey">#9B9B9B</color>
+
+    <!--商品信息标签颜色-->
+    <color name="sobot_goods_label_text_color">#F9676F</color>
+    <color name="base_color_gray_303030">#303030</color>
+    <color name="base_color_gray1_888888">#888888</color>
+
+</resources>

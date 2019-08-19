@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <data>
+        <variable
+            name="module"
+            type="com.example.addresschangedialog.ChangeAddressDialogViewModule" />
+
+    </data>
+
+    <LinearLayout
+        android:id="@+id/ly_myinfo_changeaddress_child"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/base_color_view_lable_bg"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp">
+
+
+            <TextView
+                android:id="@+id/tv_head_select"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:text="选择地区"
+                android:textColor="@color/base_color_gray"
+                android:textSize="15dp"/>
+
+            <TextView
+                android:id="@+id/btn_myinfo_cancel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="96dp"
+                android:layout_toLeftOf="@id/tv_head_select"
+                android:text="取消"
+                android:clickable="true"
+                android:onClick="@{(v)->module.onClickCancle(v)}"
+                android:textColor="@color/base_color_gray1"
+                android:textSize="15dp"/>
+
+            <TextView
+                android:id="@+id/btn_myinfo_sure"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="96dp"
+                android:layout_toRightOf="@id/tv_head_select"
+                android:text="确认"
+                android:clickable="true"
+                android:onClick="@{(v)->module.onClickConfirm(v)}"
+                android:textColor="@color/base_color_red"
+                android:textSize="15dp"/>
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:orientation="horizontal"
+            android:background="@color/base_color_view_lable_bg"
+            android:gravity="center_vertical">
+            <com.example.addresschangedialog.wheelview.WheelView
+                android:id="@+id/wv_address_province"
+                android:layout_width="0dip"
+                android:layout_weight="1"
+                android:layout_height="match_parent"
+                android:background="@color/base_color_view_lable_bg"
+                android:layout_gravity="left"
+                />
+            <com.example.addresschangedialog.wheelview.WheelView
+                android:id="@+id/wv_address_city"
+                android:layout_width="0dip"
+                android:layout_weight="1"
+                android:layout_height="match_parent"
+                android:background="@color/base_color_view_lable_bg"
+                android:layout_gravity="center_vertical"
+                />
+
+            <com.example.addresschangedialog.wheelview.WheelView
+                android:id="@+id/wv_address_area"
+                android:layout_width="0dip"
+                android:layout_weight="1"
+                android:layout_height="match_parent"
+                android:background="@color/base_color_view_lable_bg"
+                android:layout_gravity="right"
+                />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</layout>
